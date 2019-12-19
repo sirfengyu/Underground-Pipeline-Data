@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Underground-Pipeline-Data</string>
+    <string name="main_activity_title">地下管线数据采集</string>
+    <string name="search_title">搜索</string>
+    <string name="setting_title">设置</string>
+    <string name="edit_message">请输入数据</string>
+    <string name="button_send">点击</string>
+    <string name="cc">面积</string>
+    <string name="area">面积</string>
+    <string name="export_title">导出csv</string>
+    <string name="isContinuouslyAdd">是否连续新增</string>
+    <string name="meta_data_config">字段配置</string>
+
+</resources>
